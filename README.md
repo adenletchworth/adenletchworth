@@ -3,11 +3,11 @@
 ## Skills
 
 ### Programming Languages
-![Programming Languages](https://skillicons.dev/icons?i=java,python,c)
+![Programming Languages](https://skillicons.dev/icons?i=java,python,c,js)
 ### Frameworks and Libraries
 ![Frameworks and Libraries](https://skillicons.dev/icons?i=spring,pytorch,hibernate)
 ### Databases and Tools
-![Databases and Tools](https://skillicons.dev/icons?i=sqlite,mysql,github,git,postman,docker,aws,gcp,maven)
+![Databases and Tools](https://skillicons.dev/icons?i=mysql,git,docker,aws,gcp,maven)
 ### Other tools and technologies
 ![Other tools and technologies](https://skillicons.dev/icons?i=regex,md,linux,latex,ai)
 
