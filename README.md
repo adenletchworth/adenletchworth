@@ -7,10 +7,13 @@
 ### Frameworks and Libraries
 ![Frameworks and Libraries](https://skillicons.dev/icons?i=spring,pytorch,hibernate)
 ### Databases and Tools
-![Databases and Tools](https://skillicons.dev/icons?i=mysql,git,docker,aws,gcp,maven)
+![Databases and Tools](https://skillicons.dev/icons?i=mysql,git,gcp,maven,docker,aws)
 ### Other tools and technologies
-![Other tools and technologies](https://skillicons.dev/icons?i=regex,md,linux,latex,ai)
+![Other tools and technologies](https://skillicons.dev/icons?i=ai,linux,latex,md,regex)
 
+## Projects
+- [Happy Cinema](https://github.com/adenletchworth/Happy-Cinema): Try my Movie Recommendation App
+- [Member System](https://github.com/IscariotSystems/Member-System): What I'm currently working on
 
 
 
