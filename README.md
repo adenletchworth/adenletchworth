@@ -11,9 +11,15 @@
 ### Other tools and technologies
 ![Other tools and technologies](https://skillicons.dev/icons?i=ai,linux,latex,md,regex)
 
+
 ## Projects
-- [Happy Cinema](https://github.com/adenletchworth/Happy-Cinema): Try my Movie Recommendation App
-- [Member System](https://github.com/IscariotSystems/Member-System): What I'm currently working on
+
+### Try My Movie Recommender
+- [Happy Cinema](https://github.com/adenletchworth/Happy-Cinema)
+
+### What I\'m Currently Working On
+- [Member System](https://github.com/IscariotSystems/Member-System)
+- [Business Buddy](https://github.com/adenletchworth/Business-Buddy)
 
 
 
