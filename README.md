@@ -1,30 +1,25 @@
-# Hi there 👋
+# 👨‍💻 Hello, I'm Aden!
 
-## Skills
+## About Me
+I'm a Computer Science major at Cal Poly Pomona with a fervent interest in all things data-related, including machine learning, data science, and cloud computing. Beyond that, I also enjoy delving into the realm of Full Stack Development.
 
-### Programming Languages
-![Programming Languages](https://skillicons.dev/icons?i=java,python,c,js)
-### Frameworks and Libraries
-![Frameworks and Libraries](https://skillicons.dev/icons?i=spring,pytorch,hibernate)
-### Databases and Tools
-![Databases and Tools](https://skillicons.dev/icons?i=mysql,git,gcp,maven,docker,aws)
-### Other tools and technologies
-![Other tools and technologies](https://skillicons.dev/icons?i=ai,linux,latex,md,regex)
+## Skills 🚀
+- **Programming Languages:** 
+![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) ![C](https://skillicons.dev/icons?i=c) ![JavaScript](https://skillicons.dev/icons?i=js)
+- **Frameworks and Libraries:** 
+![Spring](https://skillicons.dev/icons?i=spring) ![PyTorch](https://skillicons.dev/icons?i=pytorch) ![Hibernate](https://skillicons.dev/icons?i=hibernate)
+- **Databases and Tools:** 
+![MySQL](https://skillicons.dev/icons?i=mysql) ![Git](https://skillicons.dev/icons?i=git) ![Google Cloud Platform](https://skillicons.dev/icons?i=gcp) ![Maven](https://skillicons.dev/icons?i=maven) ![Docker](https://skillicons.dev/icons?i=docker)
+- **Other tools and technologies:** 
+![Artificial Intelligence](https://skillicons.dev/icons?i=ai) ![Linux](https://skillicons.dev/icons?i=linux) ![LaTeX](https://skillicons.dev/icons?i=latex) ![Markdown](https://skillicons.dev/icons?i=md) ![Regex](https://skillicons.dev/icons?i=regex)
 
+## Projects 🛠️
+### [Happy Cinema](https://github.com/adenletchworth/Happy-Cinema)
+Try My Movie Reccomendation Application! 🍿🎬
 
-## Projects
-
-### Try My Movie Recommender
-- [Happy Cinema](https://github.com/adenletchworth/Happy-Cinema)
-
-### What I\'m Currently Working On
-- [Member System](https://github.com/IscariotSystems/Member-System)
-- [Business Buddy](https://github.com/adenletchworth/Business-Buddy)
-
-
-
-
-
+### Currently in the Works:
+- [Member System](https://github.com/IscariotSystems/Member-System): A project under development, aiming to streamline and optimize member management systems.
+- [Business Buddy](https://github.com/adenletchworth/Business-Buddy): An ongoing venture focused on creating data analytics tools to support and boost business processes.
 
 <!--
 **adenletchworth/adenletchworth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
