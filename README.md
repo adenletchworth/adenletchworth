@@ -4,21 +4,25 @@
 I'm a Computer Science major at Cal Poly Pomona with a fervent interest in all things data-related, including machine learning, data science, and cloud computing. Beyond that, I also enjoy delving into the realm of Full Stack Development.
 
 ## Skills 🚀
-- **Programming Languages:** 
+- **Programming Languages:** <br> <br>
 ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) ![C](https://skillicons.dev/icons?i=c) ![JavaScript](https://skillicons.dev/icons?i=js)
-- **Frameworks and Libraries:** 
+<br><br>
+- **Frameworks and Libraries:** <br> <br>
 ![Spring](https://skillicons.dev/icons?i=spring) ![PyTorch](https://skillicons.dev/icons?i=pytorch) ![Hibernate](https://skillicons.dev/icons?i=hibernate)
-- **Databases and Tools:** 
+<br><br>
+- **Databases and Tools:** <br> <br>
 ![MySQL](https://skillicons.dev/icons?i=mysql) ![Git](https://skillicons.dev/icons?i=git) ![Google Cloud Platform](https://skillicons.dev/icons?i=gcp) ![Maven](https://skillicons.dev/icons?i=maven) ![Docker](https://skillicons.dev/icons?i=docker)
-- **Other tools and technologies:** 
+<br><br>
+- **Other tools and technologies:** <br> <br>
 ![Artificial Intelligence](https://skillicons.dev/icons?i=ai) ![Linux](https://skillicons.dev/icons?i=linux) ![LaTeX](https://skillicons.dev/icons?i=latex) ![Markdown](https://skillicons.dev/icons?i=md) ![Regex](https://skillicons.dev/icons?i=regex)
+<br><br>
 
 ## Projects 🛠️
 ### [Happy Cinema](https://github.com/adenletchworth/Happy-Cinema)
 Try My Movie Reccomendation Application! 🍿🎬
 
-### Currently in the Works:
-- [Member System](https://github.com/IscariotSystems/Member-System): A project under development, aiming to streamline and optimize member management systems.
+### Currently in the Works: <br>
+- [Member System](https://github.com/IscariotSystems/Member-System): A project under development, aiming to streamline and optimize member management systems. <br><br>
 - [Business Buddy](https://github.com/adenletchworth/Business-Buddy): An ongoing venture focused on creating data analytics tools to support and boost business processes.
 
 <!--
