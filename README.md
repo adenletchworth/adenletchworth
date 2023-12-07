@@ -21,9 +21,11 @@ I'm a Computer Science major at Cal Poly Pomona with a fervent interest in all t
 ### [Happy Cinema](https://github.com/adenletchworth/Happy-Cinema)
 Try My Movie Reccomendation Application! 🍿🎬
 
+### [Member System](https://github.com/IscariotSystems/Member-System)
+Manage members effortlessly with our team's comprehensive full-stack web application.
+
 ### Currently in the Works: <br>
-- [Member System](https://github.com/IscariotSystems/Member-System): A project under development, aiming to streamline and optimize member management systems. <br><br>
-- [Business Buddy](https://github.com/adenletchworth/Business-Buddy): An ongoing venture focused on creating data analytics tools to support and boost business processes.
+- [Business Buddy](https://github.com/adenletchworth/Business-Buddy): An ongoing venture creating a data analytics tools to support and boost business processes.
 
 <!--
 **adenletchworth/adenletchworth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
