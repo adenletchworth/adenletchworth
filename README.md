@@ -1,21 +1,29 @@
-# 👨‍💻 Hello, I'm Aden!
+## Hello, I am Aden 
 
-## About Me
-I'm a Computer Science major at Cal Poly Pomona with a fervent interest in all things data-related, including machine learning, data science, and cloud computing. Beyond that, I also enjoy delving into the realm of Full Stack Development.
+I'm a Computer Science major at Cal Poly Pomona with an interest in all things data-related, including machine learning, data science, and cloud computing. Beyond that, I also enjoy Full Stack Development.
 
-## Skills 🚀
-- **Programming Languages:** <br> <br>
-![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) ![C](https://skillicons.dev/icons?i=c) ![JavaScript](https://skillicons.dev/icons?i=js)
-<br><br>
-- **Frameworks and Libraries:** <br> <br>
-![Spring](https://skillicons.dev/icons?i=spring) ![PyTorch](https://skillicons.dev/icons?i=pytorch) ![Hibernate](https://skillicons.dev/icons?i=hibernate)
-<br><br>
-- **Databases and Tools:** <br> <br>
-![MySQL](https://skillicons.dev/icons?i=mysql) ![Git](https://skillicons.dev/icons?i=git) ![Google Cloud Platform](https://skillicons.dev/icons?i=gcp) ![Maven](https://skillicons.dev/icons?i=maven) ![Docker](https://skillicons.dev/icons?i=docker)
-<br><br>
-- **Other tools and technologies:** <br> <br>
-![Artificial Intelligence](https://skillicons.dev/icons?i=ai) ![Linux](https://skillicons.dev/icons?i=linux) ![LaTeX](https://skillicons.dev/icons?i=latex) ![Markdown](https://skillicons.dev/icons?i=md) ![Regex](https://skillicons.dev/icons?i=regex)
-<br><br>
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adenrletchworth@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aden-letchworth-626949293/)
+----
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 ## Projects 🛠️
 ### [Happy Cinema](https://github.com/adenletchworth/Happy-Cinema)
