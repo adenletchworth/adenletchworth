@@ -1,6 +1,6 @@
 ## Hello, I am Aden 
 
-I'm a Computer Science major at Cal Poly Pomona with an interest in all things data-related, including machine learning, data science, and cloud computing. Beyond that, I also enjoy Full Stack Development.
+Computer Science Graduate who enjoys developing data-driven applications using natural language processing, big data technologies, machine learning and advanced visualizations. I have a strong foundation with Python, Java, and SQL which I've utilized to build many full-stack data applications and compete on kaggle.Computer Science Graduate who enjoys developing data-driven applications using natural language processing, big data technologies, machine learning and advanced visualizations. I have a strong foundation with Python, Java, and SQL which I've utilized to build many full-stack data applications and compete on kaggle.
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adenrletchworth@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aden-letchworth-626949293/)
