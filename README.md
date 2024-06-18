@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./media/banner.png" alt="Banner" width="1000" height="333">
+  <img src="./media/banner.gif" alt="Banner" width="1000" height="333">
 </p>
 
 I'm a Computer Science graduate who enjoys developing data-driven applications using natural language processing, big data technologies, machine learning, and advanced visualizations. With a strong foundation in Python, Java, and SQL, I've built numerous full-stack data applications and competed on Kaggle.
